@@ -31,7 +31,7 @@ knit_hooks$set(small.mar = function(before, options, envir) {
 ---
 
 
-##### First Excersices
+##### First Excersice
 <div style="text-align: justify"> 
 Both the confidence interval and the hypothesis test are found in the prop.test. `alternative = "greater"` was used because the problem suggests that men have a _greater_ probability of having the disease.
 </div>
